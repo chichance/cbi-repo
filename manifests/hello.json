@@ -1,0 +1,7 @@
+{
+  "name": "hello.sh",
+  "version": "1.0.0",
+  "sha256": "8c5371cd05c6d3f8d26ea5fdefdbc450a7499f96314e974330924ca40e9ea364",
+  "signature": "signatures/hello.sig",
+  "author": "CBI"
+}
